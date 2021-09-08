@@ -18,7 +18,7 @@ $ source covidepican.sh
 
 ## Estadísticas
 
-La fuente de dato solo incluye información desde enero de 2021. Para una fuente más completa, consultar el [panel de datos](https://grafcan1.maps.arcgis.com/apps/dashboards/156eddd4d6fa4ff1987468d1fd70efb6) de COVID-19 del Gobierno de Canarias.
+La fuente de datos solo incluye información desde enero de 2021. Para una fuente más completa, consultar el [panel de datos](https://grafcan1.maps.arcgis.com/apps/dashboards/156eddd4d6fa4ff1987468d1fd70efb6) de COVID-19 del Gobierno de Canarias.
 
 Las estadísticas que se incluyen son:
 
