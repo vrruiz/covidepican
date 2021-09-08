@@ -22,7 +22,28 @@ La fuente de dato solo incluye información desde enero de 2021. Para una fuente
 
 Las estadísticas que se incluyen son:
 
-- 
+- Casos diarios
+- Casos diarios por estado del caso
+- Número de casos por estado del caso
+- Casos por grupo de edad
+- Fallecidos por sexo
+- Fallecidos por grupo de edad
+- Fallecidos por grupo de edad y sexo
+- Días hasta el fallecimiento (media) por isla
+- Dias hasta el fallecimiento (media)
+- Días hasta el alta (media) por isla
+- Días hasta el alta (media por mes)
+- Casos cerrados por alta por mes
+- Fallecidos por mes
+- Días hasta el fallecimiento (media por mes)
+- Días hasta el alta (media por mes)
+- Casos por grupos de edad y mes
+- Fallecidos por grupos de edad y mes
+- Casos activos por grupos de edad y estado
+- Casos activos en domicilio por grupo de edad\"
+- Casos activos hospitalizados en planta por grupo de edad
+- Casos activos hospitalizados en UCI por grupo de edad
+- Casos activos hospitalizados en planta por grupos de edad y mes
 
 ## Autor
 
